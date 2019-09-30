@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <header>
-      <h1><code>transition-group bug</code></h1>
+      <h1><code>transition-group key:bug</code></h1>
     </header>
     <Group></Group>
     <footer>
